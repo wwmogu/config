@@ -13,3 +13,4 @@ set shiftwidth=4
 " set showcmd
 
 imap jj <ESC>
+set mouse=a
