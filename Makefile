@@ -1,3 +1,5 @@
+## A very easy Makefile to support competitive programming local testing
+
 ## reference: 
 ## https://www.cs.swarthmore.edu/~newhall/unixhelp/howto_makefiles.html
 
