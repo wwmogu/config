@@ -1,0 +1,23 @@
+{
+  // vscode with vim (require vim extension)
+  "vim.startInInsertMode": true,
+  "vim.insertModeKeyBindings": [
+    {
+      "before": ["j", "j"],
+      "after": ["<Esc>"]
+    }
+  ],
+  "vim.handleKeys": {
+    "<C-a>": false,
+    "<C-x>": false,
+    "<C-f>": false,
+    "<C-n>": false,
+    "<C-c>": false,
+    // "<C-v>": false,
+    "C-p" : false
+  },
+  "vim.whichwrap": "b,s,h,l,<,>",
+
+  // vscode icon theme (require vscode-icons extension)
+  "workbench.iconTheme": "vscode-icons"
+}
