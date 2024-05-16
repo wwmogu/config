@@ -1,6 +1,7 @@
 {
   // vscode with vim (require vim extension)
   "vim.startInInsertMode": true,
+  // Only available in Users settings, Preferences: Open User Settings (JSON)
   "vim.insertModeKeyBindings": [
     {
       "before": ["j", "j"],
