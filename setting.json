@@ -14,7 +14,7 @@
     "<C-f>": false,
     "<C-n>": false,
     "<C-c>": false,
-    // "<C-v>": false,
+    "<C-v>": false,  // This can fix, paste not working issue
     "C-p" : false
   },
   "vim.whichwrap": "b,s,h,l,<,>",
